@@ -1,4 +1,4 @@
-# SafeRide-AI_-Intelligent-Road-Safety-Monitoring-with-Helmet-Accident-Detection
+# SafeRide-AI_Intelligent-Road-Safety-Monitoring-with-Helmet-Accident-Detection
 ## **📌 Why This Project?**
 
 Road accidents and helmet violations are among the major causes of injury and death on Indian roads.  
